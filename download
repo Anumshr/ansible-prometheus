@@ -1,0 +1,1 @@
+curl -LO https://github.com/ptometheus/node-exporter/releases/download/v0.10.0/node-exporter-0.10.0.linux-amd64.tar.gz
